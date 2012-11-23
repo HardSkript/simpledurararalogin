@@ -1,0 +1,21 @@
+.header {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	border-style: solid;
+	border-width: 2px;
+	font-family: trebuchet, arial, san serif;
+
+}
+.header a {
+	text-decoration: none;
+	font-size: 18px;
+	padding-right: 10px;
+}
+a:link { color: #DDDDDD; }
+a:visited { color: #DDDDDD; }
+a:hover {
+	background-color: #FFFFFF;
+	color: #000000;
+}
